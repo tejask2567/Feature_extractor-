@@ -15,7 +15,7 @@ A sophisticated Python-based tool that leverages machine learning to extract str
 tender-extraction/
 │
 ├── src/
-│   └── tender_extraction.py
+│   └── BERT.py
 ├── inputs/
 │   └── test.pdf
 ├── outputs/
@@ -62,7 +62,7 @@ python -m nltk.downloader stopwords  # Download NLTK resources
 
 ### Running the Script
 ```bash
-python tender_extraction.py
+python BERT.py
 ```
 
 ### Command Line Arguments

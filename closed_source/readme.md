@@ -61,7 +61,7 @@ The script extracts the following key information:
 
 ### Running the Script
 ```bash
-python tender_extraction.py
+python Gemini.py
 ```
 
 ### Customization
